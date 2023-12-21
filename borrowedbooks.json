@@ -1,0 +1,155 @@
+{
+    "borrowedbooks": [
+      {
+        "id": 1,
+        "book_id": 7,
+        "borrowed_date": "2023-01-01",
+        "return_date": "2023-01-15"
+      },
+      {
+        "id": 2,
+        "book_id": 18,
+        "borrowed_date": "2023-02-05",
+        "return_date": "2023-02-20"
+      },
+      {
+        "id": 3,
+        "book_id": 5,
+        "borrowed_date": "2023-03-10",
+        "return_date": "2023-03-25"
+      },
+      {
+        "id": 4,
+        "book_id": 12,
+        "borrowed_date": "2023-04-15",
+        "return_date": "2023-04-30"
+      },
+      {
+        "id": 5,
+        "book_id": 8,
+        "borrowed_date": "2023-05-20",
+        "return_date": "2023-06-05"
+      },
+      {
+        "id": 6,
+        "book_id": 2,
+        "borrowed_date": "2023-06-25",
+        "return_date": "2023-07-10"
+      },
+      {
+        "id": 7,
+        "book_id": 16,
+        "borrowed_date": "2023-07-30",
+        "return_date": "2023-08-14"
+      },
+      {
+        "id": 8,
+        "book_id": 11,
+        "borrowed_date": "2023-08-01",
+        "return_date": "2023-08-15"
+      },
+      {
+        "id": 9,
+        "book_id": 14,
+        "borrowed_date": "2023-09-05",
+        "return_date": "2023-09-20"
+      },
+      {
+        "id": 10,
+        "book_id": 1,
+        "borrowed_date": "2023-10-10",
+        "return_date": "2023-10-25"
+      },
+      {
+        "id": 11,
+        "book_id": 19,
+        "borrowed_date": "2023-11-15",
+        "return_date": "2023-11-30"
+      },
+      {
+        "id": 12,
+        "book_id": 4,
+        "borrowed_date": "2023-12-20",
+        "return_date": "2024-01-05"
+      },
+      {
+        "id": 13,
+        "book_id": 9,
+        "borrowed_date": "2024-02-01",
+        "return_date": "2024-02-15"
+      },
+      {
+        "id": 14,
+        "book_id": 20,
+        "borrowed_date": "2024-03-05",
+        "return_date": "2024-03-20"
+      },
+      {
+        "id": 15,
+        "book_id": 13,
+        "borrowed_date": "2024-04-10",
+        "return_date": "2024-04-25"
+      },
+      {
+        "id": 16,
+        "book_id": 17,
+        "borrowed_date": "2024-05-15",
+        "return_date": "2024-05-30"
+      },
+      {
+        "id": 17,
+        "book_id": 3,
+        "borrowed_date": "2024-06-20",
+        "return_date": "2024-07-05"
+      },
+      {
+        "id": 18,
+        "book_id": 10,
+        "borrowed_date": "2024-07-25",
+        "return_date": "2024-08-09"
+      },
+      {
+        "id": 19,
+        "book_id": 6,
+        "borrowed_date": "2024-08-30",
+        "return_date": "2024-09-14"
+      },
+      {
+        "id": 20,
+        "book_id": 15,
+        "borrowed_date": "2024-09-01",
+        "return_date": "2024-09-15"
+      },
+      {
+        "id": 21,
+        "book_id": 1,
+        "borrowed_date": "2024-10-05",
+        "return_date": "2024-10-20"
+      },
+      {
+        "id": 22,
+        "book_id": 20,
+        "borrowed_date": "2024-11-10",
+        "return_date": "2024-11-25"
+      },
+      {
+        "id": 23,
+        "book_id": 4,
+        "borrowed_date": "2024-12-15",
+        "return_date": "2024-12-30"
+      },
+      {
+        "id": 24,
+        "book_id": 15,
+        "borrowed_date": "2025-01-20",
+        "return_date": "2025-02-04"
+      },
+      {
+        "id": 25,
+        "book_id": 3,
+        "borrowed_date": "2025-02-25",
+        "return_date": "2025-03-12"
+      }
+    ]
+  }
+  
